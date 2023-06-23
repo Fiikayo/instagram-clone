@@ -1,0 +1,17 @@
+// .container{
+//   display: flex;
+// }
+
+.navSection{
+  width: 335px;
+  border-right: 1px solid rgb(219, 219, 219);
+  height: 100%;
+  padding: 8px 12px 20px;
+  position: fixed;
+  z-index: 1;
+  overflow-x: hidden;
+}
+
+.mainSection{
+  margin-left: 360px;
+}
